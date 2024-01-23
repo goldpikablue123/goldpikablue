@@ -1,4 +1,4 @@
-// Mutliple line hello, By Paxton Orchar
+// Mutliple line hello, By Paxton Orchard
 #include <iostream>
 
 using namespace std;
@@ -11,7 +11,6 @@ int main()
     cout << "And the past always turns up tails." << endl;
     cout << "But theres always a future to walk towards." << endl;
     cout << "So what will you do? Continue? Press 1 to try again." << endl;
-    cin >> choices;
     if (choices = 1)
     {
         cout << "Good luck Stardust.";
