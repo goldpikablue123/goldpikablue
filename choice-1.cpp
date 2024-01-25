@@ -18,7 +18,7 @@ int main()
     case 1:
         cout << "The stars are beaut" break;
 
-    default:
-        break;
+    default
+        break
     }
 }
