@@ -13,8 +13,7 @@ int main()
     cout << "Press 1 to choose Stars. Press 2 to choose Hell .";
     cin >> userChoice;
 
-    switch (userChoice)
-        ;
+    switch (userChoice);
     {
     case 1:
         cout << "The stars are beaut" break;
