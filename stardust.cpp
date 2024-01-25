@@ -17,6 +17,6 @@ int main()
         else
         {
             cout << "Then goodbye. Forever.";
-        }
+        
     }
 }
